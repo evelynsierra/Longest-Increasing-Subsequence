@@ -9,3 +9,6 @@ Longest Increasing Subsequence (LIS) adalah permasalahan yang mencari panjang se
 5. Kemudian, kita bandingkan lagi array ke-1 dengan array ke-2. Kita mendapatkan nilai 22 > 9, sehingga 9 tidak bisa dimasukkan ke dalam LIS kita.
 6. Langkah 3 sampai 5 akan diulang terus sampai akhir array. 
 7. Maka, LIS yang kita dapat adalah 6, dengan urutan `{10,22,33,50,60,80}`
+
+
+Source : https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/
